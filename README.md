@@ -3,6 +3,20 @@
 
 
 📊 Dashboard Data Orders – Excel Analysis Project
+
+
+🤖 AI Assistance
+
+This project was developed with the help of AI tools to enhance analysis and reporting.
+
+Used Claude AI to support:
+Report writing and structuring
+Data interpretation and insights generation
+Improving clarity and presentation of findings
+
+Note: All analysis, dashboard design, and implementation were done by me. AI was used only as a supporting tool.
+
+
 📌 Overview
 
 This project presents a comprehensive Excel dashboard for analyzing food order data.
